@@ -1,0 +1,22 @@
+{
+    "blogs":[
+        {
+            "title": "Beyond Grammar and Spelling",
+            "body": "From grammar and spelling to style and tone, Grammarly’s suggestions are comprehensive, helping you communicate effectively and as you intend.",
+            "author": "Kalume Ernest",
+            "id": 1
+        },
+        {
+            "title": "Everyone Can Write with Confidence",
+            "body": "Grammarly allows me to get those communications out and feel confident that I’m putting my best foot forward. Grammarly is like a little superpower, especially when I need to be at 110%.",
+            "author": "Jeanette Stock",
+            "id": 2
+        },
+        {
+            "title": "Brilliant Writing Awaits",
+            "body": "Get started for free and find out what you can accomplish with the power of Grammarly at your fingertips.",
+            "author": "Didi Stone",
+            "id": 3
+        }
+    ]
+}
