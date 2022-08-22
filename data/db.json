@@ -1,22 +1,22 @@
 {
-    "blogs":[
-        {
-            "title": "Beyond Grammar and Spelling",
-            "body": "From grammar and spelling to style and tone, Grammarly’s suggestions are comprehensive, helping you communicate effectively and as you intend.",
-            "author": "Kalume Ernest",
-            "id": 1
-        },
-        {
-            "title": "Everyone Can Write with Confidence",
-            "body": "Grammarly allows me to get those communications out and feel confident that I’m putting my best foot forward. Grammarly is like a little superpower, especially when I need to be at 110%.",
-            "author": "Jeanette Stock",
-            "id": 2
-        },
-        {
-            "title": "Brilliant Writing Awaits",
-            "body": "Get started for free and find out what you can accomplish with the power of Grammarly at your fingertips.",
-            "author": "Didi Stone",
-            "id": 3
-        }
-    ]
+  "blogs": [
+    {
+      "title": "Amazon Prime Video",
+      "body": "Amazon Prime Video, or simply Prime Video, is an American subscription video on-demand over-the-top streaming and rental service of Amazon offered as a standalone service or as part of Amazon's Prime subscription. The service primarily distributes films and television series produced by Amazon Studios and MGM Holdings or licensed to Amazon, as Amazon Originals, with the service also hosting content from other providers, content add-ons, live sporting events, and video rental and purchasing services. Operating worldwide, the service may require a full Prime subscription to be accessed. In countries such as the United States, United Kingdom, and Germany, the service can be accessed without a full Prime subscription,[3] whereas in Australia, Canada, France, India, Turkey, and Italy, it can only be accessed through a dedicated website. Prime Video additionally offers a content add-on service in the form of channels, called Amazon Channels, or Prime Video Channels, which allow users to subscribe to additional video subscription services from other content providers within Prime Video.Launched on September 7, 2006, as Amazon Unbox in the United States, the service grew with an expanding library, and added the Prime Video membership upon the development of the Prime subscription. It was then renamed as Amazon Instant Video on Demand. After acquiring the UK-based streaming and DVD-by-mail service LoveFilm in 2011,[5] Prime Video was added to the Prime subscription in the United Kingdom, Germany and Austria in 2014,[6][7] available on a monthly subscription of £/€7.99 per month, continuing the plan of LoveFilm Instant.[8] The service was previously available in Norway, Denmark, and Sweden in 2012, but was discontinued in 2013.[9] On April 18, 2016, Amazon split Prime Video from Amazon Prime in the US for $8.99 per month. On December 14, 2016, Prime Video launched worldwide (except for Mainland China, Cuba, Iran, North Korea, Russia[1] and Syria) expanding its reach beyond the United States, United Kingdom, Germany, Austria, and Japan. Among the new territories, the service was included with Prime in Belgium, Brazil, Canada, France, India, Ireland, Italy, Poland, Turkey and Spain, while for all other countries, it was made available for a monthly promotional price of $/€2.99 per month for the first six months and $/€5.99 per month thereafter.",
+      "author": "Kalume Ernest",
+      "id": 1
+    },
+    {
+      "title": "The New York Times confidentials and history",
+      "body": "The New York Times (known informally as NYT) is an American daily newspaper based in New York City with a worldwide readership.[5][6] It was founded in 1851 by Henry Jarvis Raymond and George Jones, and was initially published by Raymond, Jones & Company.[7] The Times has won 132 Pulitzer Prizes, the most of any newspaper,[8] and has long been regarded as a national newspaper of record. It is ranked 18th in the world by circulation and 3rd in the U.S.The paper is owned by The New York Times Company, which is publicly traded. It has been governed by the Sulzberger family since 1896, through a dual-class share structure after its shares became publicly traded.[11] A. G. Sulzberger and his father, Arthur Ochs Sulzberger Jr.—the paper's publisher and the company's chairman, respectively—are the fifth and fourth generations of the family to head the paper.Since the mid-1970s, The New York Times has expanded its layout and organization, adding special weekly sections on various topics supplementing the regular news, editorials, sports, and features. Since 2008,[13] the Times has been organized into the following sections: News, Editorials/Opinions-Columns/Op-Ed, New York (metropolitan), Business, Sports, Arts, Science, Styles, Home, Travel, and other features.[14] On Sundays, the Times is supplemented by the Sunday Review (formerly the Week in Review),The New York Times Book Review,The New York Times Magazine,and T: The New York Times Style Magazine.The editorial pages of The New York Times are typically liberal in their position. The New York Times was founded as the New-York Daily Times on September 18, 1851.Founded by journalist and politician Henry Jarvis Raymond and former banker George Jones, the Times was initially published by Raymond, Jones & Company.[22] Early investors in the company included Edwin B. Morgan,[23] Christopher Morgan,[24] and Edward B. Wesley.[25] Sold for a penny (equivalent to $0.33 in 2021), the inaugural edition attempted to address various speculations on its purpose and positions that preceded its release. We shall be Conservative, in all cases where we think Conservatism essential to the public good;—and we shall be Radical in everything which may seem to us to require radical treatment and radical reform. We do not believe that everything in Society is either exactly right or exactly wrong;—what is good we desire to preserve and improve;—what is evil, to exterminate, or reform. In 1852, the newspaper started a western division, The Times of California, which arrived whenever a mail boat from New York docked in California. The effort failed once local California newspapers came into prominence. On September 14, 1857, the newspaper officially shortened its name to The New-York Times. The hyphen in the city name was dropped on December 1, 1896.[28] On April 21, 1861, The New York Times began publishing a Sunday edition to offer daily coverage of the Civil War",
+      "author": "Jeanette Stock",
+      "id": 2
+    },
+    {
+      "title": "The Grammy Award History",
+      "body": "The Grammys had their origin in the Hollywood Walk of Fame project in the 1950s.[2][3] As recording executives on the Walk of Fame committee compiled a list of significant recording industry people who might qualify for a Walk of Fame star, they realized that many leading people in their business would not earn a star on Hollywood Boulevard. They determined to rectify this by creating awards given by their industry similar to the Oscars and the Emmys. After deciding to go forward with such awards, a question remained what to call them. One working title was the ‘Eddie’, to honor Thomas Edison, the inventor of the phonograph. Eventually, the name was chosen after a mail-in contest whereby approximately 300 contestants submitted the name 'Grammy', with the earliest postmark from contest winner Jay Danna of New Orleans, Louisiana, as an abbreviated reference Emile Berliner's invention, the gramophone.[4] Grammys were first awarded for achievements in 1958.[5][6][7]",
+      "author": "Didi Stone",
+      "id": 3
+    }
+  ]
 }

@@ -6,24 +6,32 @@ const useFetch = (url) => {
     const [error, setError] = useState(null);
     
     useEffect(() => {
-        fetch(url)
-        .then(res => {
-            if (!res.ok) {
-                throw Error("The ressource can't be reached");
-            }
+        const abortCont = new AbortController();
 
-        return res.json();
+        fetch(url, {signal:abortCont.signal})
+            .then(res => {
+                if (!res.ok) {
+                    throw Error("The ressource can't be reached");
+                }
+
+                return res.json();
             })
             .then((data) => {
-            setData(data);
-            setIsPending(false);
-            setError(null);
-        })
+                setData(data);
+                setIsPending(false);
+                setError(null);
+            })
             .catch(err => {
-            setIsPending(false);
-            setError(err.message);
-            setData(null);
-        })
+                if (err.name === 'AbortError') {
+                    console.log('Fetch aborted');
+                }else {
+                    setIsPending(false);
+                    setError(err.message);
+                    setData(null);
+                }
+            });
+        
+        return () => abortCont.abort();
     }, [url]);
 
     return { data, isPending, error }
